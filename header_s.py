@@ -36,7 +36,7 @@ import numpy as np
 import time
 import datetime
 
-
+google_colors = ['#a93329', '#d94234', '#ffd200', '#e3b73c', '#0ca55f', '#0c9458', '#378fdd', '#2154ac']
 
 
 # Plotly tokens - https://www.mapbox.com/
