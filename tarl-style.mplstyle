@@ -1,0 +1,43 @@
+# Tarl
+
+text.color : (0.2,0.2,0.2)
+
+# AXES
+axes.titlesize : 16
+axes.labelsize : 14
+axes.edgecolor : (0.1,0.1,0.1) #Normalized RGB colours (from 0 to 1 instead of 0 to 255)
+axes.labelcolor : (0.1,0.1,0.1)
+axes.linewidth : 1
+# axes.spines.top : False
+# axes.spines.right : False
+# axes.spines.bottom : True
+# axes.spines.left : True
+
+# GRID
+axes.grid : True
+grid.alpha : 0.7
+grid.linestyle : --
+grid.linewidth : 0.6
+
+# LINES
+axes.prop_cycle : cycler('color', [ 'a93329', 'd94234', 'ffd200', 'e3b73c', '0ca55f', '0c9458', '378fdd', '2154ac']) #hex colours
+lines.linewidth : 1.5
+lines.markeredgewidth : 0.0
+lines.markersize : 15
+
+# SCATTER PLOT
+scatter.marker : .
+
+
+# TICKS
+xtick.labelsize : 15
+xtick.color : (0.2,0.2,0.2)
+xtick.direction : out
+ytick.labelsize : 15
+ytick.color : (0.2,0.2,0.2)
+ytick.direction : out
+
+# FIGURE OUTPUT 
+# figure.figsize  : 5, 5
+figure.dpi : 150
+savefig.dpi : 300
