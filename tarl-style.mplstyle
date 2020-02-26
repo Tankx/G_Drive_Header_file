@@ -29,7 +29,8 @@ grid.linewidth : 0.5
 axes.axisbelow : line
 
 # LINES
-axes.prop_cycle : cycler('color', [ 'a93329', 'd94234', 'ffd200', 'e3b73c', '0ca55f', '0c9458', '378fdd', '2154ac']) #hex colours
+axes.prop_cycle : cycler('color', [ 'a93329', '0c9458', '2154ac', 'e3b73c', 'd94234', '0ca55f', '378fdd', 'ffd200']) #hex colours
+
 lines.linewidth : 1.5
 lines.markeredgewidth : 0.0
 lines.markersize : 15
